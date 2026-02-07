@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1TxO4nsbAqYBaTL2LIAgQMc
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+```OWNERSHIP- This Repo only belongs to the OWNER itself and copying or modifing the file without permission can lead to copyright infrigment.```
